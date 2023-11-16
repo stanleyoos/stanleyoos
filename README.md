@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+💻
+
+- 🔭 I’m currently working on Invoice App 2.0
+- 🌱 I’m currently learning NextJS
+
 <!--
 **stanleyoos/stanleyoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
