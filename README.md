@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,mongodb,mysql,nextjs,nodejs,react,tailwind,ts)](https://skills.thijs.gg)
 
 - 🔭 I’m currently working on Invoice App 2.0
 - 🌱 I’m currently learning NextJS
