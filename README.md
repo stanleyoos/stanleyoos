@@ -2,8 +2,7 @@
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,mongodb,mysql,nextjs,nodejs,react,tailwind,ts)](https://skills.thijs.gg)
 
-- 🔭 I’m currently working on Invoice App 2.0
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Python
 
 <!--
 **stanleyoos/stanleyoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
