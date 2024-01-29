@@ -1,14 +1,15 @@
-### Hi there 👋
+### Hi there, my name is Stanisław 👋
+## 25 yo, based in Cracow, Poland
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,supabase)](https://skills.thijs.gg)
 
-[![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,nodejs,)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,nodejs)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=,tailwind,ts,docker)](https://skills.thijs.gg)
 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning React Native
 
 <!--
 **stanleyoos/stanleyoos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
