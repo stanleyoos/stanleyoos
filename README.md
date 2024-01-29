@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,mongodb,mysql,nextjs,nodejs,react,tailwind,ts)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,git,mongodb,mysql,nextjs,nodejs,react,tailwind,ts,docker)](https://skills.thijs.gg)
 
 - 🌱 I’m currently learning Python
 
