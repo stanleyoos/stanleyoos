@@ -1,16 +1,6 @@
 ## Hi there, my name is Stanisław 👋
 ### 25 yo, based in Cracow, Poland
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=mongodb,mysql,supabase)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=nextjs,react,nodejs)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=tailwind,ts,docker)](https://skills.thijs.gg)
-
-[![My Skills](https://skills.thijs.gg/icons?i=figma,materialui,git)](https://skills.thijs.gg)
-
 - 🌱 I’m currently learning React Native
 
 <!--
